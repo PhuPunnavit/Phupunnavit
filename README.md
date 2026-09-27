@@ -12,7 +12,6 @@
 ---
 
 ## 🛠️ ทักษะความสามารถ (Skills & Tech Stack)
-*(สามารถแก้ไขหรือลบอันที่ไม่ใช้ออกได้เลยครับ)*
 
 *   **Languages:** HTML / CSS / JavaScript / Python / Java
 *   **Frameworks & Tools:** React / Node.js / Git / GitHub
