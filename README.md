@@ -25,7 +25,7 @@
 ---
 
 ## 📬 ช่องทางการติดต่อ (Contact Me)
-*   **Email:** 69070119@kmitl.ac.th 
+*   **Email:** lool75810@gmail.com
 
 ---
 ⚡ *“Learning never exhausts the mind.” — Leonardo da Vinci*
